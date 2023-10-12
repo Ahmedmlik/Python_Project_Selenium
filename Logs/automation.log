@@ -31,3 +31,40 @@
 2023-10-11 21:05:39,560 - utilites.newCustomLogger - INFO - ****Started Home page title test ****
 2023-10-11 21:05:39,560 - utilites.newCustomLogger - INFO - ****Opening URL****
 2023-10-11 21:05:50,194 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-12 12:12:49,604 - utilites.newCustomLogger - INFO - *************** Test_001_Login *****************
+2023-10-12 12:12:49,604 - utilites.newCustomLogger - INFO - ****Started Home page title test ****
+2023-10-12 12:12:49,604 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-12 12:12:53,437 - utilites.newCustomLogger - INFO - **** Home page title test passed ****
+2023-10-12 12:13:05,299 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-12 12:13:14,465 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-12 12:18:46,075 - utilites.newCustomLogger - INFO - *************** Test_001_Login *****************
+2023-10-12 12:18:46,076 - utilites.newCustomLogger - INFO - ****Started Home page title test ****
+2023-10-12 12:18:46,077 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-12 12:18:49,924 - utilites.newCustomLogger - INFO - **** Home page title test passed ****
+2023-10-12 12:19:02,381 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-12 12:19:08,712 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-12 13:03:23,954 - utilites.newCustomLogger - INFO - *************** Test_001_Login *****************
+2023-10-12 13:03:23,957 - utilites.newCustomLogger - INFO - ****Started Home page title test ****
+2023-10-12 13:03:23,957 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-12 13:03:28,066 - utilites.newCustomLogger - INFO - **** Home page title test passed ****
+2023-10-12 13:03:37,082 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-12 13:03:43,126 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-12 13:24:57,301 - utilites.newCustomLogger - INFO - *************** Test add customer *****************
+2023-10-12 13:24:57,302 - utilites.newCustomLogger - INFO - **** Started add customer verification test by validation message  ****
+2023-10-12 13:24:57,302 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-12 13:25:25,225 - utilites.newCustomLogger - INFO - *************** Test add customer *****************
+2023-10-12 13:25:25,225 - utilites.newCustomLogger - INFO - **** Started add customer verification test by table  ****
+2023-10-12 13:25:25,225 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-12 13:31:47,862 - utilites.newCustomLogger - INFO - *************** Test add customer *****************
+2023-10-12 13:31:47,863 - utilites.newCustomLogger - INFO - **** Started add customer verification test by validation message  ****
+2023-10-12 13:31:47,863 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-12 13:32:08,968 - utilites.newCustomLogger - INFO - *************** Test add customer *****************
+2023-10-12 13:32:08,969 - utilites.newCustomLogger - INFO - **** Started add customer verification test by table  ****
+2023-10-12 13:32:08,969 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-12 13:32:47,333 - utilites.newCustomLogger - INFO - **** add customer verification test by table test passed ****
+2023-10-12 13:33:29,728 - utilites.newCustomLogger - INFO - *************** Test add customer *****************
+2023-10-12 13:33:29,737 - utilites.newCustomLogger - INFO - **** Started add customer verification test by validation message  ****
+2023-10-12 13:33:29,737 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-12 13:33:48,477 - utilites.newCustomLogger - INFO - *************** Test add customer *****************
+2023-10-12 13:33:48,477 - utilites.newCustomLogger - INFO - **** Started add customer verification test by table  ****
+2023-10-12 13:33:48,478 - utilites.newCustomLogger - INFO - ****Opening URL****

@@ -1,6 +1,4 @@
 import logging
-import os
-
 class LogGen:
     def __init__(self, log_file_path, log_level=logging.INFO):
         self.log_file_path = log_file_path

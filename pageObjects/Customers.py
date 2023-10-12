@@ -11,6 +11,7 @@ class Castomers:
     lastname = "//input[@id='LastName']"
     nombre_table_rows = '//*[@id="customers-grid"]/tbody/tr'
     messgae_ajouter = '/html/body/div[3]/div[1]/div[1]'
+    customerInfo_Xpath = '//div[@class="card-title"]'
 
 
 
@@ -31,6 +32,11 @@ class Castomers:
     def add_click(self):
         add_button = self.driver.find_element(By.XPATH, Castomers.add)
         add_button.click()
+
+    def customerInfo (self):
+        btn_CI = self.driver.find_element(By.XPATH, Castomers.customerInfo_Xpath)
+        btn_CI.click()
+
 
     def Save_customer(self):
         save = self.driver.find_element(By.XPATH, Castomers.save)

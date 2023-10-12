@@ -22,6 +22,8 @@ def pytest_configure(config):
     except Exception as e:
         print("An error occurred in pytest_configure:", e)
 
+
+
 def pytest_addoption(parser):    # This will get the value from CLI /hooks
     parser.addoption("--browser")
 

@@ -8,7 +8,7 @@ class Test_001_Login:
     logger = LogGen(".\\Logs\\automation.log")
 
     def test_homepage(self, setup):
-        self.logger.log_info("*************** Test_001_Login *****************")
+        self.logger.log_info("*************** TestLogin *****************")
         self.logger.log_info("****Started Home page title test ****")
         self.driver = setup
         self.logger.log_info("****Opening URL****")
@@ -40,7 +40,7 @@ class Test_001_Login:
             self.driver.close()
             assert True
         else:
-            self.driver.save_screenshot("..\\Screeshots\\test_Login.png")
+            self.driver.save_screenshot(".\\Screeshots\\test_Login.png")
             self.logger.log_error("****Login test failed ****")
             self.driver.close()
             assert False
