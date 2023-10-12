@@ -1,0 +1,33 @@
+2023-10-11 20:25:55,553 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-11 20:26:14,356 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-11 20:29:03,733 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-11 20:29:11,433 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-11 20:31:13,067 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-11 20:31:17,843 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-11 20:32:05,583 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-11 20:32:12,080 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-11 20:33:00,301 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-11 20:33:05,305 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-11 20:39:03,497 - utilites.newCustomLogger - INFO - *************** Test_001_Login *****************
+2023-10-11 20:39:03,498 - utilites.newCustomLogger - INFO - ****Started Home page title test ****
+2023-10-11 20:39:03,498 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-11 20:39:20,475 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-11 20:39:25,348 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-11 20:51:51,828 - utilites.newCustomLogger - INFO - *************** Test_001_Login *****************
+2023-10-11 20:51:51,829 - utilites.newCustomLogger - INFO - ****Started Home page title test ****
+2023-10-11 20:51:51,829 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-11 20:51:53,706 - utilites.newCustomLogger - INFO - **** Home page title test passed ****
+2023-10-11 20:52:03,189 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-11 20:52:09,231 - utilites.newCustomLogger - INFO - ****Login test passed ****
+2023-10-11 21:04:48,337 - utilites.newCustomLogger - INFO - *************** Test_001_Login *****************
+2023-10-11 21:04:48,337 - utilites.newCustomLogger - INFO - ****Started Home page title test ****
+2023-10-11 21:04:48,337 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-11 21:04:56,391 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-11 21:05:13,547 - utilites.newCustomLogger - INFO - *************** Test_001_Login *****************
+2023-10-11 21:05:13,547 - utilites.newCustomLogger - INFO - ****Started Home page title test ****
+2023-10-11 21:05:13,548 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-11 21:05:24,288 - utilites.newCustomLogger - INFO - ****Started Login Test****
+2023-10-11 21:05:39,560 - utilites.newCustomLogger - INFO - *************** Test_001_Login *****************
+2023-10-11 21:05:39,560 - utilites.newCustomLogger - INFO - ****Started Home page title test ****
+2023-10-11 21:05:39,560 - utilites.newCustomLogger - INFO - ****Opening URL****
+2023-10-11 21:05:50,194 - utilites.newCustomLogger - INFO - ****Started Login Test****
